@@ -4155,7 +4155,7 @@ iframe {
 }
 
 #page1 {
-    background: url("../../images/page1.jpg") center 0 no-repeat;
+    background: url("../../images/page1.png") center 0 no-repeat;
     z-index: 1;
     min-height: 806px;
     padding-top: 110px;
@@ -4922,6 +4922,6 @@ iframe {
         font-size: 24px;
     }
 	#page1 {
-		background: url(../../images/page1.jpg) 20% center no-repeat;
+		background: url(../../images/page1.png) 20% center no-repeat;
 	}
 }
