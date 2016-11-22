@@ -3918,7 +3918,7 @@ iframe {
     text-transform: uppercase;
 }
 .ft_address_col{
-    padding-top: 30px;
+    padding-top: 20px;
 }
 .footer_new {
     padding: 20px 0;
@@ -4173,7 +4173,7 @@ iframe {
 
 #page1 .form {
     background: url(../../images/form.png) center top no-repeat;
-    width: 446px;
+    width: 560px;
     min-height: 388px;
     margin: 25px auto 0;
     padding: 105px 0 0;
@@ -4184,7 +4184,7 @@ iframe {
 }
 
 #page1 .form > div {
-    padding: 0px 70px;
+    /*padding: 0px 70px;*/
 }
 
 #page1 .footer {
@@ -4924,4 +4924,9 @@ iframe {
 	#page1 {
 		background: url(../../images/page1.png) 20% center no-repeat;
 	}
+}
+
+.tu_van_online{
+    font-size: 14px;
+    color: #f16522 !important;
 }
