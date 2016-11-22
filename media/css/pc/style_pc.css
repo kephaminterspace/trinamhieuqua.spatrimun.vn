@@ -4274,6 +4274,17 @@ iframe {
     color: transparent;
 }
 
+#page1 .fbt1 {
+    background: url(../../images/dangky2_1.png) 0 0 no-repeat;
+    border: none !important;
+    width: 240px !important;
+    height: 63px !important;
+    margin: 0 auto !important;
+    display: block;
+    cursor: pointer;
+    color: transparent;
+}
+
 @media (max-width: 768px) {
     #page1 .fbt {
         background-size: 100%;
